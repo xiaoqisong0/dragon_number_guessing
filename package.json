@@ -1,0 +1,24 @@
+{
+  "name": "dragon_number_guessing",
+  "version": "1.0.1",
+  "description": "数字游戏",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoqisong0/dragon_number_guessing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoqisong0/dragon_number_guessing/issues"
+  },
+  "homepage": "https://github.com/xiaoqisong0/dragon_number_guessing#readme",
+  "dependencies": {
+    "dragon_rain": "^1.0.6",
+    "vue": "^3.4.21"
+  }
+}
