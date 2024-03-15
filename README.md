@@ -10,4 +10,10 @@ npm i dragon_number_guessing
 
 import { dragonNumberGuessing } from "dragon_number_guessing";
 
-dragonNumberGuessing.startGame();
+// 开始游戏  
+const gameState = numberGuessingGame.startGame();  
+  
+// 检查猜测  
+const userGuess = 5; // 假设这是用户的输入  
+const updatedGameState = numberGuessingGame.checkGuess(gameState, userGuess);
+
