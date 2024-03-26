@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/xiaoqisong0/dragon_number_guessing#readme",
   "dependencies": {
+    "dragon_awakening_of_insects": "^1.0.1",
     "dragon_rain": "^1.0.6",
     "vue": "^3.4.21"
   }
